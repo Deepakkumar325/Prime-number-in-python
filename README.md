@@ -1,4 +1,5 @@
 # Prime-number-in-python
+# Prime-number
 
 
 n=int(input("Enter the number")
